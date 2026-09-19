@@ -5,8 +5,7 @@ This project implements an end-to-end data quality and risk analytics pipeline d
 By combining programmatic data cleaning in Python with unsupervised machine learning (Isolation Forest), a fully normalized relational Star Schema in MySQL, advanced SQL window functions, and programmatic Excel report automation, the system bridges the gap between raw data ingestion and executive-level risk visibility.
 
 ## 🔍 Model Evaluation & Operational Validation
-
-Because the Isolation Forest algorithm is unsupervised and trained on unlabeled transactional data, traditional classification metrics (Accuracy, Precision, Recall) require ground-truth labels and cannot be computed directly. Instead, the model was evaluated through structural and operational validation:
+The model was evaluated through structural and operational validation:
 
 1. **Contamination Parameter Calibration:** 
    * Configured `contamination=0.05`, establishing an a priori business expectation that approximately 5% of incoming operational transactions would exhibit outlier behavior or heightened risk.
