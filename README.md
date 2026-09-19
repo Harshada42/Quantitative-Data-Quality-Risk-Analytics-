@@ -13,7 +13,8 @@ By combining programmatic data cleaning in Python with unsupervised machine lear
 
 ### 2. Vendor Risk Exposure Analysis (Multi-Table JOINs)
 *Identifying vendors handling high monetary volumes and flagged risk counts:*
-![Vendor Risk Analysis](Vendor%20Risk%20Exposure%20Analysis%20%28Multi%20Table%20Join%20and%20Aggregations%29.png)
+![Vendor Risk Analysis](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-/blob/3e50710859d38fb056c0ec59120be97daacb5341/Vendor%20Risk%20Exposure%20Analysis%20(Multi%20Table%20Join%20and%20Aggregations.png
+)
 
 ### 3. Customer Risk & Spending Rankings (Window Functions)
 *Dynamic ranking of high-value accounts using advanced SQL window functions:*
