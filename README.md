@@ -8,18 +8,18 @@ By combining programmatic data cleaning in Python with unsupervised machine lear
 
 ## 📊 Project Outputs & Visual Evidence
 
-
 ### 1. Executive Risk Summary (SQL Output)
 *Categorizing high-risk anomalies versus standard operational transactions:*
 ![Executive Risk Summary](Summary%20of%20flagged%20anomalies%20vs%20normal.png)
 
 ### 2. Vendor Risk Exposure Analysis (Multi-Table JOINs)
 *Identifying vendors handling high monetary volumes and flagged risk counts:*
-![Vendor Risk Analysis](Vendor%20Risk%20Exposure%20Analysis%20%28Multi%20Table%20J....png)
+![Vendor Risk Analysis](Vendor%20Risk%20Exposure%20Analysis%20%28Multi%20Table%20Join%20and%20Aggregations%29.png)
 
 ### 3. Customer Risk & Spending Rankings (Window Functions)
 *Dynamic ranking of high-value accounts using advanced SQL window functions:*
-![Customer Risk Ranking](Customer%20Risk%20and%20Spending%20ranking%20%2advanc....png)
+![Customer Risk Ranking](Customer%20Risk%20and%20Spending%20ranking%20%2radvanced%20window%20functions%29.png)
+
 
 ## 🔍 Model Evaluation & Operational Validation
 The model was evaluated through structural and operational validation:
