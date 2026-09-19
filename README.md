@@ -5,7 +5,6 @@ This project implements an end-to-end data quality and risk analytics pipeline d
 By combining programmatic data cleaning in Python with unsupervised machine learning (Isolation Forest), a fully normalized relational Star Schema in MySQL, advanced SQL window functions, and programmatic Excel report automation, the system bridges the gap between raw data ingestion and executive-level risk visibility.
 
 ---
-
 ## 📊 Project Outputs & Visual Evidence
 
 ### 1. Executive Risk Summary (SQL Output)
@@ -18,7 +17,7 @@ By combining programmatic data cleaning in Python with unsupervised machine lear
 
 ### 3. Customer Risk & Spending Rankings (Window Functions)
 *Dynamic ranking of high-value accounts using advanced SQL window functions:*
-![Customer Risk Ranking](Customer%20Risk%20and%20Spending%20ranking%20%2radvanced%20window%20functions%29.png)
+![Customer Risk Ranking](Customer%20Risk%20and%20Spending%20ranking%20%28advanced%20window%20functions%29.png)
 
 
 ## 🔍 Model Evaluation & Operational Validation
